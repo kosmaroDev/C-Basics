@@ -1,12 +1,13 @@
 # C Basics
 
+* Baseado no conteúdo da playlist do canal do Xavecoding: https://www.youtube.com/watch?v=ucupombJuUM&list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5
+
 	The convention of C Language:
 
 	- variáveis: snake_case;
 	- ponteiros: O * deve estar junto do nome da variável ao ínves de estar junto ao tipo;
 
-	Para mais informações de convenção, consulte: https://www.doc.ic.ac.uk/lab/cplus/
-	cstyle.html#N10081
+	Para mais informações de convenção, consulte: https://www.doc.ic.ac.uk/lab/cplus/cstyle.html#N10081
 
 ## In memory Variables:
 
